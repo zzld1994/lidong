@@ -5,4 +5,4 @@ echo "work path: ${project_path}"
 
 cd Djang0_first
 
-# 
+echo hello
